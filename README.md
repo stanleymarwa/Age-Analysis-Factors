@@ -15,8 +15,10 @@ This project aims to analyze various factors that influence a person's lifespan,
 - [Installation](#installation)
 - [Usage](#usage)
 
+
 ## Data
 
+The data used for this analysis can be found in a CSV file named `lifespan_data.csv`. You can obtain this file from [here](https://github.com/stanleymarwa/Age-Analysis-Factors/blob/main/LiveLongerData.csv). Place the `lifespan_data.csv` file in a folder named "data" within the project directory.
 
 ## Installation
 
@@ -25,16 +27,9 @@ This project aims to analyze various factors that influence a person's lifespan,
 
 ## Usage
 
-1. Open the Jupyter Notebook file `analysis.ipynb` to view the analysis.
-2. Ensure you have placed the dataset in the `data` folder.
+1. Open the Jupyter Notebook file [Age Factors Analysis.ipynb](https://github.com/stanleymarwa/Age-Analysis-Factors/blob/main/Age%20Factors%20Analysis.ipynb) to view the analysis.
+2. Ensure you have placed the `lifespan_data.csv` file in the `data` folder.
 3. Run the notebook cells to reproduce the analysis, charts, and summary statistics.
 4. Modify the notebook as needed for your own research or analysis.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository on GitHub.
-2. Make your changes and commit them with descriptive commit messages.
-3. Create a pull request, explaining the changes you've made.
 
